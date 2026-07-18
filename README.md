@@ -1,42 +1,49 @@
-# Hey, I’m Awokien 👋
+# 👋 Hey, I'm Awokien
 
-I’m a **16-year-old Roblox developer and programmer** known as **@aawokiengamess**.
+> **16-year-old Roblox Developer & Programmer**
 
-I create advanced Roblox systems, user interfaces, administration tools, game mechanics, and development resources. My work has contributed to experiences with more than **100 million combined visits**.
+I'm **@aawokiengamess**, a Roblox developer focused on building high-quality systems, tools, and user experiences.
 
-## About Me
+## 🚀 About Me
 
-* Roblox developer and coder
-* Over **100M+ combined visits**
-* Experienced with **Luau**
-* UI and system developer
-* Owner of **Awokien Studios**
-* Always learning and improving
+- 🎮 Roblox Developer
+- 💻 Luau Programmer
+- 🛠️ UI & Systems Developer
+- 🏢 Owner of Awokien Studios
+- 📈 Contributed to experiences with **100M+ combined visits**
+- 📚 Constantly learning and improving
 
-## What I Develop
+## 🛠️ What I Build
 
-* Administration systems
-* Custom user interfaces
-* Overhead and rank systems
-* Announcement systems
-* Point-of-sale systems
-* Door and security systems
-* Developer tools
-* Roblox modules and frameworks
+- 🛡️ Admin Systems
+- 🎨 Custom UI/UX
+- 📢 Announcement Systems
+- 👤 Overhead & Rank Systems
+- 🔐 Security & Permission Systems
+- 🏪 Point-of-Sale Systems
+- 🚪 Door & Access Control Systems
+- 📦 Roblox Modules & Frameworks
+- ⚡ Developer Tools
 
-## Languages and Tools
+## 💻 Languages & Tools
 
-`Luau` · `Roblox Studio` · `GitHub` · `Visual Studio Code`
+![Lua](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-E2231A?style=for-the-badge&logo=roblox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
-## Current Projects
+## 📊 GitHub Stats
 
-I’m currently working on new Roblox products, systems, and resources under **Awokien Studios**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aawokiengamess&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aawokiengamess&layout=compact&theme=tokyonight)
 
-## Contact
+## 📫 Contact
 
-**Roblox:** aawokiengamess
-**GitHub:** aawokiengamess
+- 🎮 Roblox: **aawokiengamess**
+- 💻 GitHub: **@aawokiengamess**
 
 ---
 
-> Building professional Roblox systems, one project at a time.
+<p align="center">
+  <b>Building professional Roblox experiences.</b>
+</p>
